@@ -1,0 +1,35 @@
+body {
+    background-image: BgGround_Main;
+    background-image: url("BgGround_Main.jpg"); /* The image used */
+    color: azure;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+   }
+h1{
+    text-align:center ;
+    color:coral;
+    font-weight: 700;
+    font-style: bold;
+    font: size 90px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    text-align: justify;
+}
+table {
+    width: 100%;
+}
+td {
+    height: 50px;
+    vertical-align: bottom;
+    border-bottom: 1px solid #ffd700;
+}
+th{
+    text-align: center;
+}
+tr:hover {background-color: coral;}
+
